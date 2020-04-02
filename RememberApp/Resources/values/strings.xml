@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="app_name">RememberApp</string>
+    <string name="app_text">Hola Bere</string>
+    <string name="app_btn_text">Enviar</string>
     <string name="action_settings">Settings</string>
 </resources>
